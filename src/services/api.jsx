@@ -1,0 +1,1 @@
+export const API_URL = 'https://67857f471ec630ca33a8da6f.mockapi.io/alura';

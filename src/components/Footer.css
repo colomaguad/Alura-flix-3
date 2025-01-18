@@ -1,0 +1,30 @@
+ .footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #03045e;
+    color: #00b4d8;
+    position: relative;
+    width: 97%;
+    
+    
+  } 
+
+  .footer p{
+
+    font-size: 15px;
+  }
+  
+    .container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  } 
+  
+  .container .navbar {
+    margin-bottom: 1rem;
+  }
+  
+   .container > .footer {
+    margin-top: auto;
+  }
+    
